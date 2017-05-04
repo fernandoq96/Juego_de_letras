@@ -1,4 +1,4 @@
-package myPaquete;
+package main.java.myPaquete;
 
 import java.io.File;
 import java.io.FileNotFoundException;
